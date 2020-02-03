@@ -12,6 +12,7 @@
       "Kronos-Integration/interceptor-decode-json",
       "Kronos-Integration/interceptor-gzip",
       "Kronos-Integration/service",
+      "Kronos-Integration/service-health-check",
       "Kronos-Integration/service-http",
       "Kronos-Integration/service-ldap",
       "Kronos-Integration/service-swarm",
