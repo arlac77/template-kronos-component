@@ -10,6 +10,7 @@
       "Kronos-Integration/endpoint",
       "Kronos-Integration/interceptor",
       "Kronos-Integration/interceptor-decode-json",
+      "Kronos-Integration/interceptor-gzip",
       "Kronos-Integration/service",
       "Kronos-Integration/service-http",
       "Kronos-Integration/service-ldap",
