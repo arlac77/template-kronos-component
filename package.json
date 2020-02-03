@@ -9,6 +9,7 @@
     "usedBy": [
       "Kronos-Integration/endpoint",
       "Kronos-Integration/interceptor",
+      "Kronos-Integration/interceptor-decode-json",
       "Kronos-Integration/service",
       "Kronos-Integration/service-http",
       "Kronos-Integration/service-ldap",
