@@ -9,6 +9,7 @@
     "usedBy": [
       "Kronos-Integration/service",
       "Kronos-Integration/service-http",
+      "Kronos-Integration/service-ldap",
       "Kronos-Integration/service-swarm"
     ]
   }
