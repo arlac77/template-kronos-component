@@ -14,6 +14,7 @@
       "Kronos-Integration/service",
       "Kronos-Integration/service-admin",
       "Kronos-Integration/service-authenticator",
+      "Kronos-Integration/service-consul",
       "Kronos-Integration/service-health-check",
       "Kronos-Integration/service-http",
       "Kronos-Integration/service-ldap",
