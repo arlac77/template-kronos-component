@@ -1,10 +1,7 @@
 {
-  "engines": {
-    "node": ">=13.8.0"
-  },
   "template": {
     "inheritFrom": [
-      "arlac77/npm-package-template-esm-only"
+      "arlac77/template-esm-only"
     ],
     "usedBy": [
       "Kronos-Integration/endpoint",
@@ -22,6 +19,9 @@
       "Kronos-Integration/service-swarm",
       "Kronos-Integration/service-systemd",
       "Kronos-Integration/service-uti"
-    ]
+    ],
+    "properties": {
+      "node_version": "13.9.0"
+    }
   }
 }
