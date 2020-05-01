@@ -1,4 +1,7 @@
 {
+  "exports" : {
+    "." : "./{{main}}"
+  },
   "template": {
     "inheritFrom": [
       "arlac77/template-esm-only"
