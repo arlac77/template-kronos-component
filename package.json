@@ -25,6 +25,7 @@
       "Kronos-Integration/service",
       "Kronos-Integration/service-admin",
       "Kronos-Integration/service-authenticator",
+      "Kronos-Integration/service-bullmq",
       "Kronos-Integration/service-consul",
       "Kronos-Integration/service-health-check",
       "Kronos-Integration/service-http",
