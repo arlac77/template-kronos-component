@@ -5,7 +5,7 @@
     "./": "./"
   },
   "type": "module",
-  "sideEffects": false,  
+  "sideEffects": false,
   "template": {
     "inheritFrom": [
       "arlac77/template-root",
@@ -19,6 +19,7 @@
       "Kronos-Integration/interceptor",
       "Kronos-Integration/interceptor-decode-json",
       "Kronos-Integration/interceptor-gzip",
+      "Kronos-Integration/interceptor-stream-obj2string",
       "Kronos-Integration/kronos-interceptor-line-parser",
       "Kronos-Integration/service",
       "Kronos-Integration/service-admin",
