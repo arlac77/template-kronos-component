@@ -22,6 +22,7 @@
       "Kronos-Integration/interceptor-line-header",
       "Kronos-Integration/interceptor-line-parser",
       "Kronos-Integration/interceptor-line-tokenizer-csv",
+      "Kronos-Integration/interceptor-line-tokens2obj",
       "Kronos-Integration/interceptor-message-handler",
       "Kronos-Integration/interceptor-stream-obj2string",
       "Kronos-Integration/service",
