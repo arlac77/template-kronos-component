@@ -2,7 +2,7 @@
   "main": "{{main}}",
   "exports": {
     ".": "{{main}}",
-    "./": "./"
+    "./": "--delete-- ./"
   },
   "type": "module",
   "sideEffects": false,
