@@ -24,6 +24,7 @@
       "Kronos-Integration/interceptor-line-tokens2obj",
       "Kronos-Integration/interceptor-message-handler",
       "Kronos-Integration/interceptor-object-data-processor-row",
+      "Kronos-Integration/interceptor-stream",
       "Kronos-Integration/interceptor-stream-obj2string",
       "Kronos-Integration/interceptor-webhook",
       "Kronos-Integration/message",
