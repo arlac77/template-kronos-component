@@ -46,7 +46,7 @@
       "Kronos-Integration/service-uti"
     ],
     "properties": {
-      "node_version": "14.10.1"
+      "node_version": "14.11.0"
     }
   }
 }
