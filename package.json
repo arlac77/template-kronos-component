@@ -43,9 +43,9 @@
       "Kronos-Integration/service-repositories",
       "Kronos-Integration/service-swarm",
       "Kronos-Integration/service-systemd",
-      "Kronos-Integration/service-uti"
+      "Kronos-Integration/service-uti",
+      "Kronos-Integration/test-interceptor"
     ],
-    "properties": {
-    }
+    "properties": {}
   }
 }
