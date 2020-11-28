@@ -43,7 +43,8 @@
       "Kronos-Integration/service-swarm",
       "Kronos-Integration/service-systemd",
       "Kronos-Integration/service-uti",
-      "Kronos-Integration/test-interceptor"
+      "Kronos-Integration/test-interceptor",
+      "arlac77/service-smtp"
     ],
     "properties": {}
   }
