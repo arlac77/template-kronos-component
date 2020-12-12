@@ -1,9 +1,9 @@
 {
-  "main": "{{main}}",
+  "main": "--delete--",
+  "type": "--delete--",
   "exports": {
     ".": "{{main}}"
   },
-  "type": "module",
   "sideEffects": false,
   "engines": {
     "node": ">={{node_version}}"
