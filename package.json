@@ -35,7 +35,7 @@
       "Kronos-Integration/service-authenticator",
       "Kronos-Integration/service-bullmq",
       "Kronos-Integration/service-consul",
-      "Kronos-Integration/service-health-check",
+      "Kronos-Integration/service-health",
       "Kronos-Integration/service-http",
       "Kronos-Integration/service-ldap",
       "Kronos-Integration/service-logger-gelf",
