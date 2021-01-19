@@ -1,6 +1,4 @@
 {
-  "main": "--delete--",
-  "type": "--delete--",
   "exports": {
     ".": "{{main}}"
   },
