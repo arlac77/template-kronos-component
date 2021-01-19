@@ -8,6 +8,7 @@
   },
   "template": {
     "inheritFrom": [
+      "arlac77/template-javascript",  
       "arlac77/template-root",
       "arlac77/template-arlac77-github",
       "arlac77/template-ava-coverage",
