@@ -45,6 +45,8 @@
       "Kronos-Integration/service-uti",
       "Kronos-Integration/test-interceptor"
     ],
-    "properties": {}
+    "properties": {
+      "node_version": "16.10.0"
+    },
   }
 }
