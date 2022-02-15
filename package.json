@@ -46,7 +46,7 @@
       "Kronos-Integration/test-interceptor"
     ],
     "properties": {
-      "node_version": "16.13.2"
+      "node_version": "16.14.0"
     }
   }
 }
