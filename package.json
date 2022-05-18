@@ -44,9 +44,6 @@
       "Kronos-Integration/service-systemd",
       "Kronos-Integration/service-uti",
       "Kronos-Integration/test-interceptor"
-    ],
-    "properties": {
-      "node_version": "16.14.2"
-    }
+    ]
   }
 }
