@@ -2,7 +2,6 @@
   "exports": {
     ".": "{{main}}"
   },
-  "sideEffects": false,
   "engines": {
     "node": ">={{node_version}}"
   },
