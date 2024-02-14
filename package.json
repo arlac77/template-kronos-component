@@ -1,7 +1,4 @@
 {
-  "exports": {
-    ".": "{{main}}"
-  },
   "engines": {
     "node": ">={{node_version}}"
   },
