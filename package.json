@@ -4,7 +4,7 @@
   },
   "template": {
     "properties": {
-      "node_version": "20.11.0"
+      "node_version": "20.12.0"
     },
     "inheritFrom": [
       "arlac77/template-javascript",
