@@ -1,5 +1,10 @@
 {
   "template": {
+    "properties": {
+      "license": {
+        "owner": "darlenya & arlac77"
+      }
+    },
     "inheritFrom": [
       "arlac77/template-javascript",
       "arlac77/template-root",
