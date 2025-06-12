@@ -36,6 +36,7 @@
       "Kronos-Integration/service-http",
       "Kronos-Integration/service-ldap",
       "Kronos-Integration/service-logger-gelf",
+      "Kronos-Integration/service-mqtt",
       "Kronos-Integration/service-repositories",
       "Kronos-Integration/service-smtp",
       "Kronos-Integration/service-swarm",
